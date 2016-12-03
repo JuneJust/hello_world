@@ -1,1 +1,4 @@
 # hello_world
+HI EVERYONE!
+I AM GLAD TO BE HERE!
+THANK YOU!
